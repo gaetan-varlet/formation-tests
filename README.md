@@ -30,7 +30,7 @@ Constat 2 : les montées de version des composants utilisés dans le SI sont sou
 
 - améliorer la productivité future du SI
 
-image avec l'augmentation des coûts
+![image coût de la maintenance](./cout_maintenance.png)
 
 ## Pourquoi tester ? (3)
 
