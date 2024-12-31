@@ -6,10 +6,10 @@
 - UI intuitive, UX fluide, Accessibilité
 - Performance, Optimisation des ressources
 - Fiabilité
-- Sécurité
+- Sécurité   
   ...
-- Une application qui fonctionne en rythme courant sans l'informatique
-- Une application avec un coût de MCO/MCS faible
+- **Une application qui fonctionne en rythme courant sans l'informatique**
+- **Une application avec un coût de MCO/MCS faible**
 
 ## Constats
 
