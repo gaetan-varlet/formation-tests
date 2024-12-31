@@ -35,6 +35,9 @@ Constat 2 : les montées de version des composants utilisés dans le SI sont sou
 ## Pourquoi tester ? (3)
 
 - un bon informaticien a horreur de faire plusieurs fois la même chose : automatisation des tâches répétitives => tests automatiques plutôt que des tests manuels
+- ne plus avoir peur de faire des régressions lors de refactors ou d'évolutions dans la base de code
 - faciliter les montées de version des bibliothèques utilisées dans le SI (si les tests passent, pas besoin de tests manuels, ou de manière réduite et ciblé)
 
 ## Stratégie de tests
+
+- **tester le comportement**  : tester le comportement permet de vérifier que le service fonctionne correctement, indépendamment de son code interne, ce qui rend les tests plus durables
