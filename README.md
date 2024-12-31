@@ -17,7 +17,7 @@ Constat 1 : un temps important des développeurs est alloué au suivi de product
 
 - penser le fonctionnement de l'application pour que les utilisateurs soient autonomes et libérer du temps au développeur pour vraiment faire leur métier
 
-Constat 2 : les montées de version des composants utilisés dans le SI sont souvent péniblement (voir pas) mis à jour
+Constat 2 : les montées de version des bibliothèques utilisés dans une application sont souvent difficilement (voir pas) mis à jour
 
 - mettre en place une stratégie pour palier ce problème
 
